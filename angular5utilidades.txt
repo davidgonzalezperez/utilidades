@@ -1,0 +1,120 @@
+----------------------------------
+Angular Guard
+https://medium.com/@ryanchenkie_40935/angular-authentication-using-route-guards-bf7a4ca13ae3
+https://netbasal.com/implementing-auth-guard-with-componentless-route-in-angular-b50a21f3bd77
+
+------------------------
+Twitter API
+
+Qué es 
+https://bbvaopen4u.com/es/actualidad/como-usar-la-api-de-twitter-en-tu-negocio
+https://developer.twitter.com/en/docs/ads/general/guides/getting-started
+
+
+How to Use Twitter API With Node.js
+https://dzone.com/articles/how-to-use-twitter-api-using-nodejs
+
+Twitter Socket.io
+https://www.uno-de-piera.com/twitter-stream-con-node-js-y-socket-io/
+
+--------------------------------
+Seguridad en Angular
+https://academia-binaria.com/vigilancia-y-seguridad-en-Angular/
+
+IDE Angular
+https://www.genuite5. Angular5 + BootStrap 4 + Firebase
+https://medium.com/codingthesmartway-com-blog/building-an-angular-5-project-with-bootstrap-4-and-firebase-4504ff7717c1
+
+5. Angular5 + BootStrap 4 + Firebase
+https://medium.com/codingthesmartway-com-blog/building-an-angular-5-project-with-bootstrap-4-and-firebase-4504ff7717c1
+
+6. node
+https://www.nodebeginner.org/index-es.html
+https://docs.npmjs.com/
+
+7. chatbot
+https://planetachatbot.com/herramientas-faciles-crear-bots-en-facebook-messenger-3225de2bd626
+
+membership site - Slack
+https://launchpass.com
+
+https://medium.com/launchpass/how-to-create-a-membership-community-on-slack-in-3-minutes-c0c8650c9739
+
+
+https://colorlib.com/wp/software-for-creating-a-membership-site/
+
+2. Angular5 - Routing
+
+https://angular.io/guide/router
+
+http://blog.codeando.org/articulos/router-y-navegacion-con-angular.html
+
+https://academia-binaria.com/paginas-y-rutas-angular-spa/
+
+http://devarea.com/angular-5-routing-practical-guide/#.Wp430L0uk0M
+
+https://www.google.es/amp/s/www.jvandemo.com/the-7-step-process-of-angular-router-navigation/amp/
+
+
+3. Generar APK
+Jdk 
+https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=389:configurar-java-en-windows-variables-de-entorno-javahome-y-path-cu00610b&catid=68&Itemid=188
+
+Auth con Angular.
+
+https://angularfirebase.com/lessons/google-user-auth-with-firestore-custom-data/
+
+https://www.google.es/amp/s/www.dunebook.com/how-to-set-up-authentication-in-angular-5-with-firebase-firestore/amp/
+
+https://coursetro.com/posts/code/32/Create-a-Full-Angular-Authentication-System-with-Firebase
+
+----------------------------------------------------------------------
+Angular6 
+Google lanza dos versiones al año de Angular
+https://jaxenter.com/road-to-angular-6-139479.html
+
+Novedades en Angular por versión
+https://www.code-sample.com/2017/11/angular-5-vs-angular-6-new-features.html
+
+4. Prototipado Web
+
+https://www.iebschool.com/blog/herramientas-prototipado-analitica-usabilidad/
+https://www.iebschool.com/blog/diseno-ux-para-moviles-analitica-usabilidad/
+
+Diseño de componentes
+https://rukbottoland.com/blog/diseno-de-interfaces-web-con-react-js/
+https://carlosazaustre.es/formas-de-crear-un-componente-en-react/
+https://www.campusmvp.es/recursos/post/5-componentes-y-extensiones-para-react-que-debieras-conocer.aspx
+https://medium.com/@alonsus91/tipos-de-componentes-en-reactjs-f387a6f8e2b7
+
+2. ReactJs y redux
+https://medium.com/react-redux/combinando-react-js-y-redux-js-7b45a9dc39ac
+https://medium.com/react-redux/introducci%C3%B3n-a-redux-js-8bdf4fe0751e
+
+3. JSX
+https://reactjs.org/docs/introducing-jsx.html
+https://platzi.com/blog/conceptos-basicos-reactjs/
+https://code.tutsplus.com/es/tutorials/getting-started-with-react-and-jsx--cms-27352
+
+6. ReactJS vs React Native
+https://code.i-harness.com/es/q/21096ae
+https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24
+https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-reactjs-and-react-native/
+
+8. Tutoriales
+https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4
+https://hackernoon.com/simple-react-development-in-2017-113bd563691f
+
+9. Ejemplo ReactJS
+https://guiadev.com/tutorial-de-reactjs-para-principiantes/
+
+10. Ejemplo ReactNative
+https://octuweb.com/nuestra-primera-app-nativa-react-native/
+http://blog.fixter.org/comenzando-con-react-native-en-solo-3-pasos/
+
+http://coenraets.org/blog/2017/01/react-native-sample-app-
+
+*************************
+maps con autocomplete y muestra la ruta que el usario selecciona
+
+https://github.com/amfmontes/Entrega_envio_paquetes/blob/master/22_envioPaquetes/WebContent/eleccionRuta.jsp
